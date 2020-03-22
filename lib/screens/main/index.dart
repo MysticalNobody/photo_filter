@@ -116,20 +116,22 @@ class _MainScreenState extends State<MainScreen> {
                         : SingleChildScrollView(
                             child: Padding(
                               padding: EdgeInsets.symmetric(horizontal: 24),
-                              child: Column(
-                                children: List.generate(
+                              child: Column(children: [
+                                ...List.generate(
                                     provider.images.length,
                                     (index) => Row(
                                           children: <Widget>[
                                             Expanded(
                                               child: ImageCard(
-                                                image: provider
-                                                    .images[index],
+                                                image: provider.images[index],
                                               ),
                                             ),
                                           ],
                                         )),
-                              ),
+                                SizedBox(
+                                  height: 120,
+                                )
+                              ]),
                             ),
                           );
                   } else {
