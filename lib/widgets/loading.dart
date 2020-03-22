@@ -52,11 +52,8 @@ class PFLoading extends StatelessWidget {
                     margin: EdgeInsets.only(top: 24),
                     child: Text(
                       text ?? "Loading... please wait".i18n,
-                      style: GoogleFonts.ubuntu(
-                        fontSize: 12,
-                        fontWeight: FontWeight.bold,
-                        color: PFColors.text,
-                      ),
+                      style: PFText.text.copyWith(
+                          color: Theme.of(context).textTheme.headline6.color),
                     ),
                   )
                 ],
