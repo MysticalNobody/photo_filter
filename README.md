@@ -5,7 +5,7 @@ Test task after ML Hack
 Developed by:
 Nikita Khilobok 
 Team: Барбос низкий лосс
-Специализация: Mobile developer (Android, FLutter)
+Специализация: Mobile developer (Android, Flutter)
 
 ## Instruction:
 
