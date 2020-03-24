@@ -7,13 +7,13 @@ Nikita Khilobok
 Team: Барбос низкий лосс
 Специализация: Mobile developer (Android, FLutter)
 
-## instruction:
+## Instruction:
 
 `flutter packages get`
 
 `flutter run`
 
-## description
+## Description
 App for make filter on photos
 
 Written on flutter
