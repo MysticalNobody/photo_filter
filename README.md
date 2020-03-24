@@ -5,7 +5,7 @@ Test task after ML Hack
 Developed by:
 Nikita Khilobok 
 Team: Барбос низкий лосс
-Специализация: Mobile developer
+Специализация: Mobile developer (Android, FLutter)
 
 ## instruction:
 
@@ -15,3 +15,8 @@ Team: Барбос низкий лосс
 
 ## description
 App for make filter on photos
+
+Written on flutter
+
+## Release
+https://github.com/MysticalNobody/photo_filter/releases/tag/1.0.1
