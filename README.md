@@ -2,6 +2,11 @@
 
 Test task after ML Hack
 
+Developed by:
+Nikita Khilobok 
+Team: Барбос низкий лосс
+Специализация: Mobile developer
+
 ## instruction:
 
 `flutter packages get`
